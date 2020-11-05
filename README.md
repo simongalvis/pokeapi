@@ -16,7 +16,7 @@
 
 <br/>
 
-A RESTful API for Pokémon - [pokeapi.co](https://pokeapi.co)
+A  great RESTful API for Pokémon!! - [pokeapi.co](https://pokeapi.co)
 
 ## Join Us On Slack!
 
